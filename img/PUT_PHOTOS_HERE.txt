@@ -1,0 +1,3 @@
+Add up to six JPG images named exactly photo1.jpg, photo2.jpg, photo3.jpg, photo4.jpg, photo5.jpg, photo6.jpg.
+Use lowercase filenames. Replace or edit the CONFIG.memories list in index.html if you want fewer/more photos or different captions.
+Photos are bundled in the site and visible to anyone with the public website link.
